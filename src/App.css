@@ -1,0 +1,50 @@
+/* App container styles */
+.app-container {
+  padding: 2rem;
+  background-color: #f9fafb;
+  min-height: 100vh;
+}
+
+/* Page title styles */
+.page-title {
+  margin-bottom: 1.5rem;
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: #1f2937;
+}
+
+/* Loading container styles */
+.loading-container {
+  padding: 2rem;
+}
+
+.loading-box {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 1.5rem;
+  background-color: #eff6ff;
+  border-radius: 0.25rem;
+}
+
+.loading-text {
+  font-size: 1.125rem;
+  font-weight: 500;
+  color: #1d4ed8;
+}
+
+/* Error container styles */
+.error-container {
+  padding: 2rem;
+}
+
+.error-box {
+  padding: 1rem;
+  background-color: #fef2f2;
+  border: 1px solid #fee2e2;
+  border-radius: 0.25rem;
+}
+
+.error-text {
+  color: #dc2626;
+}
